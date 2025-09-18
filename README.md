@@ -66,7 +66,7 @@ csv-processor/
 ```bash
 # Clone and start the application
 git clone <repository-url>
-cd csv-processor
+cd merb
 docker-compose up --build
 ```
 
