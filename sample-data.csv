@@ -1,0 +1,18 @@
+Department Name,Date,Number of Sales
+Sales,2024-01-01,150
+Marketing,2024-01-01,75
+Engineering,2024-01-01,25
+Sales,2024-01-02,200
+Marketing,2024-01-02,100
+Engineering,2024-01-02,30
+HR,2024-01-01,10
+Sales,2024-01-03,175
+Marketing,2024-01-03,85
+Engineering,2024-01-03,35
+HR,2024-01-02,15
+Finance,2024-01-01,50
+Sales,2024-01-04,225
+Marketing,2024-01-04,110
+Engineering,2024-01-04,40
+HR,2024-01-03,20
+Finance,2024-01-02,60

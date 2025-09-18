@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  backend-test:
+    image: golang:1.21-alpine
+    working_dir: /app
+    volumes:
+      - ./backend:/app
+    command: sh -c "go mod tidy && go test ./... -v -cover"
+    environment:
+      - CGO_ENABLED=0
